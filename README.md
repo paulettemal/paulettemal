@@ -1,16 +1,38 @@
 # Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
+
 ## Contenido
 * [Información personal](#información-personal)
+* [Lenguajes de programación](#lenguajes-de-programación)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
+
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* **Nombre**: Paulette Maldonado
+* **Ocupación**: Estudiante de Computación
+* **Lugar de residencia**: Guayaquil
+
+## Lenguajes de programación
+* **Python**
+* **JavaScript**
+* **Java**
+* **C++**
+* **HTML/CSS**
+
 ## Proyectos
-* [Lista de tus proyectos]
+* [Proyecto 1](https://github.com/tuusuario/proyecto1) - Descripción del proyecto X. 
+
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo web
+* Inteligencia artificial
+* Programación móvil
+* Diseño de interfaces
+* Aprendizaje automático
+
+---
+
+![QR](frame.png)
+
+
+¡Gracias por visitar mi perfil! 😊
